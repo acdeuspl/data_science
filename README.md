@@ -17,6 +17,7 @@ My credentials include a degree in Computer Network Management, in Electrical En
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/acdeuspl)
+* [Medium](https://medium.com/@acdeuspl)
 
 ## Projetos:
 Veja os trabalhos publicados:
