@@ -5,7 +5,7 @@
 </p>
 
 # Antônio Carlos de Deus
-<sub>*Beginner Data Scientist* at Pos Graduate in Artificial Intelligence, Machine Learning and Deep Learning (Infnet)</sub>
+<sub>*Beginner Data Scientist* at MIT in Artificial Intelligence, Machine Learning and Deep Learning (Live - Infnet)</sub>
 
 As a beginner data scientist and industrial automation engineer at CSN Cimentos Brasil S.A., I combine analytical skills, ability to work in team environments and attention to detail. Having spent the last few years programming and improving controls, as well as implementing and fine-tuning specialist clinker kiln and cement mill control systems, I have developed critical thinking and problem solving skills.
 
